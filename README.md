@@ -35,7 +35,7 @@
 
 
 ## Program:
-```
+```python
 #importing required libraries
 from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
